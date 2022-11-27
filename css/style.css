@@ -1,0 +1,66 @@
+
+h1{
+	text-align: center;
+	font: italic small-caps bold 16px/2 cursive;
+	font-size: 50px;
+	margin-top: 5px;
+
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-style: italic;
+	font-variant: none;
+	font-family: system-ui;
+	background-color: #9370DB;
+}
+
+.third{
+	width: 700px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#container{
+	display: flex;
+  justify-content: space-between;
+}
+
+.sec, .firt {
+	width: 50%;
+
+}
+
+header {
+	background-color: #EE82EE;
+
+}
+
+main{
+	background-color:#9370DB;
+}
+
+.creat{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: white;
+}
+
+#profilee{
+	text-align: center;
+	margin-top: 1.5px;
+	margin-bottom: 0px;
+	color: white;
+}
+
+footer{
+	background-color:#9370DB;
+}
+
+a{
+	color: white;
+}
